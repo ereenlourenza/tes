@@ -1,0 +1,14 @@
+{
+  "name": "daniel-nitip",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Daniel Kamasi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
